@@ -5,6 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer from Kashmir</h3>
+I am currently busy with my Masters Degree<br>I want to collaborate on React Projects<br>I am currently learning Node Js, React Js, React Native <br>I want help in React js, Node Js, React Native<br>
 
 <br/>
 
@@ -41,7 +42,10 @@
 </div>
 
 <hr/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zaid-bashir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -57,8 +61,16 @@
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+[![](https://visitcount.itsvg.in/api?id=zaid-bashir&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <br/>
+
+ ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/zaidbashir) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

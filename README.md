@@ -43,7 +43,7 @@ I am currently busy with my Masters Degree<br>I want to collaborate on React Pro
 
 <hr/>
 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zaid-bashir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=zubairwani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>

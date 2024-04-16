@@ -56,18 +56,21 @@ I am currently busy with my Masters Degree<br>I want to collaborate on React Pro
 
 <hr/>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=zubairwani&limit=5&theme=nord&combine_all_yearly_contributions=true)
+
 <br/>
 
 ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zaid-bashir&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zubairwani&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <br/>
 
  💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/zaidbashir) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/zubairwani) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer from Kashmir</h3>
-I am currently busy with my Masters Degree<br>I want to collaborate on React Projects<br>I am currently learning Node Js, React Js, React Native <br>I want help in React js, Node Js, React Native<br>
+I am currently busy with my Masters Degree<br>I want to collaborate on React Projects<br>I am currently learning React Js, React Native <br>I want help in React js, React Native<br>
 
 <br/>
 

@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer</h3>
-I am currently busy with my Masters Degree<br>I want to collaborate on React Projects<br>I am currently learning React Js, React Native <br>I want help in React js, React Native<br>
+I am Currently Pursuing MCA<br>I want to collaborate on React Projects<br>I am currently learning React Js, React Native <br>I want help in React js, React Native<br>
 
 <br/
 

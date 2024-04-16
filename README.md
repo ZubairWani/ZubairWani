@@ -8,7 +8,7 @@
 I am currently busy with my Masters Degree<br>I want to collaborate on React Projects<br>I am currently learning React Js, React Native <br>I want help in React js, React Native<br>
 
 <br/>
-
+🌐 Socials:
 <div align="center"> 
   <a href="mailto:zubairwani49@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -42,7 +42,7 @@ I am currently busy with my Masters Degree<br>I want to collaborate on React Pro
 </div>
 
 <hr/>
-## 🏆 GitHub Trophies
+🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zaid-bashir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <hr/>
@@ -61,7 +61,7 @@ I am currently busy with my Masters Degree<br>I want to collaborate on React Pro
 
 <br/>
 
-### ✍️ Random Dev Quote
+✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
@@ -69,7 +69,7 @@ I am currently busy with my Masters Degree<br>I want to collaborate on React Pro
 
 <br/>
 
- ## 💰 You can help me by Donating
+ 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/zaidbashir) 
 
   

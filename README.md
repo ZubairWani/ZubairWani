@@ -8,7 +8,8 @@
 I am currently busy with my Masters Degree<br>I want to collaborate on React Projects<br>I am currently learning React Js, React Native <br>I want help in React js, React Native<br>
 
 <br/>
-🌐 Socials:
+## 🌐 Socials:
+<hr/>
 <div align="center"> 
   <a href="mailto:zubairwani49@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />

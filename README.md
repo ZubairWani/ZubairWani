@@ -45,7 +45,7 @@ I am currently pursuing MCA<br>I want to collaborate on React Projects<br>I am c
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-   <a href="https://github.com/Sabyasachi-Seal" target="_blank">
+   <a href="https://github.com/zubairwani" target="_blank">
    <img align=center width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/3DGraphs/profile-night-rainbow.svg" />
    </a>
 </div>

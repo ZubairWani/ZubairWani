@@ -42,13 +42,10 @@ I am currently pursuing MCA<br>I want to collaborate on React Projects<br>I am c
   <br/><br/><br/>
 </div>
 <hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-   <a href="https://github.com/zubairwani" target="_blank">
-   <img align=center width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/3DGraphs/profile-night-rainbow.svg" />
-   </a>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zubairwani&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zubairwani&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zubairwani&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/><br/>
 

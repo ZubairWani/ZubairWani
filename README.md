@@ -43,9 +43,9 @@ I am currently pursuing MCA<br>I want to collaborate on React Projects<br>I am c
 <hr/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zaid-bashir&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zaid-bashir&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaid-bashir&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=zubairwani&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zaubairwani&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zubairwani&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <hr/>
 
 

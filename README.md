@@ -31,8 +31,7 @@ I am currently pursuing MCA<br>I want to collaborate on React Projects<br>I am c
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,mysql" /><br>
 </div>
 
-<br/>
-<hr/>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -42,14 +41,13 @@ I am currently pursuing MCA<br>I want to collaborate on React Projects<br>I am c
   <br/><br/><br/>
 </div>
 <hr/>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zubairwani&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zubairwani&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zubairwani&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<br/><br/>
-
+![](https://github-readme-stats.vercel.app/api?username=zaid-bashir&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zaid-bashir&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaid-bashir&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <hr/>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zubairwani&limit=5&theme=nord&combine_all_yearly_contributions=true)

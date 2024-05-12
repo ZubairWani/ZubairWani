@@ -4,9 +4,13 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zubair+Wani!;" />
 </h1>
+
+<div align=center>
+   <a href="https://github.com/zubairwani" target="_blank">
+   <img align="right" alt="Coding" width=45% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder2.gif" /></a>
    <h4>
       🌱 I’m mostly interested in:
-      <a href="https://github.com/zubairwani">
+      <a href="https://github.com/Sabyasachi-Seal">
       <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Cloud+Computing;CyberSecurity;Data+Science;AI+ML" /></a>
       <br>
       👯 I’m looking to collaborate on:

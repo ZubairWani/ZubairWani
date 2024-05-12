@@ -5,8 +5,9 @@
 </h1>
 
 <h3 align="center">A Passionate Web Developer</h3>
-🔭 I’m currently working on [YourSportz](https://yoursportz.in/) <br>I want to collaborate on React Projects<br>I am currently learning React Js, React Native <br>I want help in React js, React Native<br>
-<br/>
+-🔭 I’m currently working on [YourSportz](https://yoursportz.in/) 
+- I want to collaborate on React Projects
+- I am currently learning React Js, React Native
 
 ## 🌐 Socials:
 

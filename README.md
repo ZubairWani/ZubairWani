@@ -4,10 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zubair+Wani!;" />
 </h1>
 
-<h3 align="center">A Passionate Web Developer</h3>  <br>
--🔭 I’m currently working on [YourSportz](https://yoursportz.in/) <br>
-- I want to collaborate on React Projects <br>
-- I am currently learning React Js, React Native
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" /
+
+- 🔭 I’m currently working on [YourSportz](https://yoursportz.in/)
+
+- 🌱 I’m currently learning **next.js, ReactNative**
 
 ## 🌐 Socials:
 

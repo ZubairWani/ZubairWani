@@ -9,26 +9,23 @@
    <a href="https://github.com/zubairwani" target="_blank">
    <img align="right" alt="Coding" width=45% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder2.gif" /></a>
    <h4>
-      🌱 I’m mostly interested in:
-      <a href="https://github.com/Sabyasachi-Seal">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Cloud+Computing;CyberSecurity;Data+Science;AI+ML" /></a>
+      🌱 I’m currently Learning:
+      <a href="https://github.com/zubairwani">
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=;Next+Js;Api+Integration;React+Native" /></a>
       <br>
       👯 I’m looking to collaborate on:
       <a href="https://github.com/Sabyasachi-Seal">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Data+Science;AI+Projects;Web+Apps;Cloud+Deployment;Social+Media+Bots" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Web+Apps;Api+Integration;React+Native+Projects" /></a>
       <br>
       💬 Talk to me all about:
-      <a href="https://github.com/Sabyasachi-Seal">
+      <a href="https://github.com/zubairwani">
       <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=My+Projects;Upcoming+Events;New+Technology;New+Ideas;Anything+Technical" /></a>
    </h4>
 </div>
 
-
-
+<br>
 
 - 🔭 I’m currently working on [YourSportz](https://yoursportz.in/)
-
-- 🌱 I’m currently learning **next.js, ReactNative**
 
 ## 🌐 Socials:
 

@@ -5,9 +5,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zubair+Wani!;" />
 </h1>
 
-<a href="https://github.com/zubairwani">
+<div align=center>
+   <a href="https://github.com/zubairwani">
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
+</div>
 
 <div align=center>
    <a href="https://github.com/zubairwani" target="_blank">

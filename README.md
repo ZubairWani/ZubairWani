@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A Passionate Web Developer</h3>
-I am currently pursuing MCA<br>I want to collaborate on React Projects<br>I am currently learning React Js, React Native <br>I want help in React js, React Native<br>
+I am currently working on YourSportz.in <br>I want to collaborate on React Projects<br>I am currently learning React Js, React Native <br>I want help in React js, React Native<br>
 <br/>
 
 ## 🌐 Socials:

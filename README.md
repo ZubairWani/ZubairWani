@@ -26,7 +26,7 @@
    </h4>
 </div>
 
- 🔭 I’m currently working on [YourSportz](https://yoursportz.in/)
+
 
   <div align=center>
    <a href="https://github.com/zubairwani">

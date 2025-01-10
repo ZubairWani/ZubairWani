@@ -71,6 +71,9 @@
   <br/><br/><br/>
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zubairwani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <div align=center>
    <a href="https://github.com/zubairwani">
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">

@@ -14,17 +14,18 @@
    <h4>
       🌱 I’m currently Learning:
       <a href="https://github.com/zubairwani">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Next+Js;Api+Integration;React+Native" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Backend+Engineering;System+Design;Next+Js" /></a>
       <br>
       👯 I’m looking to collaborate on:
-      <a href="https://github.com/Sabyasachi-Seal">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Web+Apps;Api+Integration;React+Native+Projects" /></a>
+      <a href="https://github.com/zubairwani">
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Full-Stack+Projects;Backend+APIs;Automation+Tools" /></a>
       <br>
       💬 Talk to me all about:
       <a href="https://github.com/zubairwani">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=My+Projects;Upcoming+Events;New+Technology;New+Ideas;Anything+Technical" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=Scalable+Apps;Backend+Tech;Automation;New+Ideas" /></a>
    </h4>
 </div>
+
 
 
 

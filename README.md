@@ -14,17 +14,18 @@
    <h4>
       🌱 I’m currently Learning:
       <a href="https://github.com/zubairwani">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Automation;Agentic+AI+Automation;Workflow+Orchestration" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Backend+Engineering;Automation;Generative+AI" /></a>
       <br>
       👯 I’m looking to collaborate on:
       <a href="https://github.com/zubairwani">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Full-Stack+Projects;Backend+APIs;Automation+Tools" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Backend+Projects;Automation+Tools;Docker+Related+Work" /></a>
       <br>
       💬 Talk to me all about:
       <a href="https://github.com/zubairwani">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=Scalable+Apps;Backend+Tech;Automation;New+Ideas" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=Full-Stack+Development;Backend+Engineering;Automation;Cloud+Technologies" /></a>
    </h4>
 </div>
+
 
 
 
